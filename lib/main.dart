@@ -94,7 +94,9 @@ class MyHomePage extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(16.0),
             child: Text(
-              "Sebuah persimpangan jalan di Barcelona, Spanyol. Foto ini menampilkan berbagai kendaraan yang bergerak dalam arah yang berbeda, menciptakan pemandangan yang sibuk dan energik.",
+              "Sebuah persimpangan jalan di Barcelona, Spanyol."
+              "Foto ini menampilkan berbagai kendaraan yang bergerak dalam arah yang berbeda, "
+              "menciptakan pemandangan yang sibuk dan energik.",
               style: TextStyle(fontSize: 16),
               textAlign: TextAlign.justify,
             ),
